@@ -1195,7 +1195,6 @@ body:not(.post-template) .post-title {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: inline-block;
-    float: right;
     height: 38px;
     padding: 0 15px;
     border-style: solid;
