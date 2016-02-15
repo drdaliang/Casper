@@ -1179,23 +1179,29 @@ body:not(.post-template) .post-title {
     width: 140px;
 }
 
-.post-footer .share a {
+/*.post-footer .share a {
     font-size: 1.8rem;
     display: inline-block;
     margin: 1rem 1.6rem 1.6rem 0;
     color: #BBC7CC;
     text-decoration: none;
+}*/
+
+.post-footer .share .button-share {
+    border-color: #BFC8CD;
+    color: #9EABB3;
 }
 
-.post-footer .share .icon-twitter:hover {
-    color: #55acee;
+.post-footer .share .button-share:hover {
+    border-color: #555;
+    color: #555;
 }
-.post-footer .share .icon-facebook:hover {
+/*.post-footer .share .icon-facebook:hover {
     color: #3b5998;
 }
 .post-footer .share .icon-google-plus:hover {
     color: #dd4b39;
-}
+}*/
 
 
 /* ==========================================================================
